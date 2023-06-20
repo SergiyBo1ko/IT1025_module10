@@ -14,3 +14,6 @@ PythonOOP.png ( shows result and code of Flower class )
 
 
 Flower.py ( Implementing Flower class with two attributes: name, color; we have class Flower and constructor method __init__ to initialize data: name, color. Then we create an object called p1 with passing arguments "Rose","red" , then we print name and color of object)
+
+
+NetworkDesing.png (created a network diagram , it hase two computers, a printer, laptop, printer server, printer, switch, firewall, wireless access point and a router: two PCs connected to Switch, then it goes to router then in firewall and then acces to internet; printer first connected to printer server which is connected to router;laptop connected to wireless access point which then goes to router)
