@@ -3,10 +3,10 @@ REPO FOR MODULE 10: Python
 
 Python.png
 
-Logic visualization where i am comparing two numbers to see which is bigger (15 < 20, so y is bigger then we print message about it)
+Logic visualization where i am comparing two numbers to see which is bigger ( 15 < 20, so y is bigger then we print message about it )
 
 
-MyClass.png (Flower class UML-diagram)
+MyClass.png ( Flower class UML-diagram with attributes:color,fragrance,name and methods:wither,bloom,smell )
 
 
 
