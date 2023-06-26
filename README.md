@@ -17,3 +17,6 @@ Flower.py ( Implementing Flower class with two attributes: name, color; we have 
 
 
 NetworkDesing.png ( I select topology diagram because it shows the concepts of network clearly. Created a network diagram , it has two computers, printer, laptop, printer server, switch, firewall, wireless access point and a router: two PCs connected to Switch, then it goes to router then in firewall and then acces to internet; printer first connected to printer server which is connected to router;laptop connected to wireless access point which then goes to router )
+
+
+SQLQuery.png ( it is SQL - query request to get records from Products where price more than 70 and then I sorted it by price, from lower to higher ) 
