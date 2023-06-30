@@ -20,3 +20,6 @@ NetworkDesing.png ( I select topology diagram because it shows the concepts of n
 
 
 SQLQuery.png ( it is SQL - query request to get records from Products where price more than 70 and then I sorted it by price, from lower to higher ) 
+
+
+MyHTML.png ( my first HTML-project where i created body,paragraph,heading,input,label,image tags; i inserted my logo )
